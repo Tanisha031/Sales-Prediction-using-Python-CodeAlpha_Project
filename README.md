@@ -1,2 +1,3 @@
 # Sales-Prediction-using-Python-CodeAlpha_Project
-This folder contains my  CodeAlpha_Project file.
+
+In this project, I worked on predicting sales based on advertising spending in different channels such as TV, Radio, and Newspaper. Using Python, I explored and visualized the dataset to understand the relationships between advertising budgets and sales figures. I then built a simple linear regression model to analyze how each advertising channel influences sales. After training the model on existing data, I evaluated its performance to ensure accurate predictions. Finally, I used the trained model to forecast sales for new advertising budgets, demonstrating how Python can be used to make data-driven sales predictions effectively. This project highlights the power of Python for data analysis, visualization, and predictive modeling in a real-world context.
